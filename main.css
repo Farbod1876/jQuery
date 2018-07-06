@@ -1,0 +1,19 @@
+#fadein{
+	color: red;
+}
+#fadein1{
+	color: green;
+}
+#fadein2{
+	color: blue;
+}
+#fadein3{
+	color: pink;
+}
+#slideMe{
+	background: gray;
+	border-width: 2px;
+	padding-bottom: 50px;
+	border: solid black;
+	margin-right: 850px;
+}
